@@ -8,9 +8,10 @@ apps that support macOS Services.
 
 ## Features
 
-- **Fix grammar (keep my tone)** – corrects spelling, grammar and punctuation only
+- **Polish (keep my tone)** – fixes grammar, awkward phrasing and coherence in your own voice
 - **Friendly**, **Formal**, **Funny** – rewrites the selection in that tone
-- **Custom prompt** – type your own instruction, e.g. *"shorter and softer"*
+- **My instructions** – say the tone, audience and goal, e.g. *"polite but firm, for my boss"*
+- Keeps your facts intact and notifies you if something looks wrong or contradictory
 - Nothing runs in the background; the script starts on click and exits when done
 - The API key is stored in the macOS Keychain, never in a file
 - If a request fails, the original text is left untouched and a notification explains why
